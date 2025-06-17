@@ -1,0 +1,6 @@
+transformers>=4.38.0
+peft>=0.10.0
+safetensors
+torch
+accelerate
+sentencepiece
